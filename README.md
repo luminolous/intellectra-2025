@@ -8,8 +8,6 @@
 Intellectra is a baby milk producer that offers loyalty points for product purchases made by members.  
 Based on customer history, transaction data, and product attributes, participants are challenged to build a binary classification model that can predict whether a customer will repurchase a product in the following month.
 
-This competition is part of the INTELLECTRA 2025 event organized by the Graduate Student Association of Statistics and Data Science at IPB University.
-
 ---
 
 ## Objectives

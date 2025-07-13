@@ -1,3 +1,7 @@
+> **Note:**
+> Due to output rendering limitations on GitHub, some notebook cells (especially those involving dynamic outputs or widgets) may not display properly.
+> To view the full outputs and run the notebook interactively, please open it in Google Colab:
+> [intellectra2025.ipynb](https://colab.research.google.com/drive/1U8xwLLv6Vv51FHc7ioP8gtYy31J8g1NP?usp=sharing)
 
 # Intellectra 2025 – Predictive Modeling
 
